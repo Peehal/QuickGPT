@@ -41,10 +41,9 @@ Database (MongoDB / Atlas)
 3. Transactions
 
 Testing(Postman)
-
-Tests:
-1. User registration/login
-2. JWT-protected routes
-3. Credit deduction
-4. Text and image generation
-5. Payment verification
+ Tests:
+  1. User registration/login
+  2. JWT-protected routes
+  3. Credit deduction
+  4. Text and image generation
+  5. Payment verification
